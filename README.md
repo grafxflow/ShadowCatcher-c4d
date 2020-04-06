@@ -10,7 +10,7 @@ See basic example tutorial [here](https://grafxflow.co.uk/blog/3d-animation/shad
 
 > NOTE: It has been tested in **Cinema 4D R9** through to **Cinema 4D R17**.
 
-> UPDATE: **Shadow catcher** is now a built-in material and compositing feature in version **Cinema 4D R18+** by default.
+> UPDATE: **Shadow catcher** is now a built-in material and compositing feature in version **Cinema 4D R18** onwards by default.
 
 ![Shadow Catcher plugin in cinema 4d image](readme-images/shadow-catcher-plugin-in-cinema-4d.jpg)
 
